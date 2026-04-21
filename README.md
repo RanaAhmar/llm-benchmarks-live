@@ -31,6 +31,7 @@ The raw JSON data powering the live leaderboard is stored in `data/leaderboard.j
 Have a new model or benchmark to add? Please read our `CONTRIBUTING.md` guidelines for formatting evaluation scripts and submitting pull requests to update the leaderboard.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -48,4 +49,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
