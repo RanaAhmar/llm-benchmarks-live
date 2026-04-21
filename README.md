@@ -30,21 +30,6 @@ The raw JSON data powering the live leaderboard is stored in `data/leaderboard.j
 
 Have a new model or benchmark to add? Please read our `CONTRIBUTING.md` guidelines for formatting evaluation scripts and submitting pull requests to update the leaderboard.
 
----
-
-## 🏢 About Stackaura
-
-LLM Benchmarks Live is maintained by **Stackaura**. We specialize in providing top-tier digital solutions, focusing on scalable AI integration, premium branding, and robust software architecture designed to elevate your business.
-
-**Want to build smarter, data-driven applications?**
-> Visit us at [**Stackaura.com**](https://www.stackaura.com/) to learn more about our enterprise AI testing, development, and consulting services.
-
-<div align="center">
-  <a href="https://www.stackaura.com/">
-    <img src="https://img.shields.io/badge/Visit-Stackaura-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Stackaura" />
-  </a>
-</div>
-
 
 ---
 
@@ -63,3 +48,4 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
